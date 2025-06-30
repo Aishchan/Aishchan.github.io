@@ -4,7 +4,7 @@
     "label": "Lecturer - Utah State University",
     "image": "",
     "email": "aish.chandrasekaran@usu.edu",
-    "url": "https://Aishchan/aishchan.github.io/",
+    "url": "https://aishchan.github.io/",
     "summary": "Passionate educator at the department of Environment and Society teaching online courses on Python programming, portfolio development and remote sensing visualization as part of the Online GeoAI certificate program at USU. Proven expertise in Remote Sensing, UAS mapping, GIS, Forest Measurements, Machine Learning and Deep Learning. Proficient in R, Python, and image processing tools. A proud dog mom (fish and bunny parent as well) who loves a perspective vision of forests as much as an aerial view.",
   "work": [
     {
@@ -15,22 +15,10 @@
       "endDate": "",
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Purdue University",
+      "location": "Indiana, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
