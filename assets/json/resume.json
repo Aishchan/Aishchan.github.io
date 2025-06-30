@@ -10,7 +10,7 @@
     {
       "name": "Department of Environment and Society, Utah State University",
       "position": "Lecturer",
-      "url": "https://qcnr.usu.edu/directory/envs/faculty/chandrasekaran-aishwarya",
+      "url": "https://qcnr.usu.edu/directory/envs/faculty/chandrasekaran-aishwarya/",
       "startDate": "08/01/2024",
       "endDate": "",
     }
@@ -18,14 +18,30 @@
   "education": [
     {
       "institution": "Purdue University",
-      "location": "Indiana, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "location": "Indiana, USA",
+      "url": "https://www.purdue.edu/",
+      "area": "Forestry",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-08-01",
+      "endDate": "2024-07-31",
+    },
+    {
+      "institution": "Purdue University",
+      "location": "Indiana, USA",
+      "url": "https://www.purdue.edu/",
+      "area": "Forestry",
+      "studyType": "MS",
+      "startDate": "2018-08-01",
+      "endDate": "2020-07-31",
+    },
+    {
+      "institution": "College of Engineering",
+      "location": "Chennai, India",
+      "url": "https://ceg.annauniv.edu/",
+      "area": "Geo-informatics",
+      "studyType": "B.E.",
+      "startDate": "2014-08-01",
+      "endDate": "2018-05-31",
     }
   ],
   "awards": [
