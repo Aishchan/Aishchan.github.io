@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Remote sensing Educator</a> <a href='#'>Mapper of trees</a> <a href='#'>Pursuing Ethical AI research</a>.
+subtitle: <a href='#'>Remote sensing Educator|</a> <a href='#'>Mapper of trees|</a> <a href='#'>Pursuing Ethical AI research|</a>.
 
 profile:
   align: right
