@@ -1,36 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aishwarya Chandrasekaran",
+    "label": "Lecturer - Utah State University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+    "email": "aish.chandrasekaran@usu.edu",
+    "url": "https://Aishchan/Aishchan.github.io/al-folio/",
+    "summary": "Passionate educator at the department of Environment and Society teaching online courses on Python programming, portfolio development and remote sensing visualization as part of the Online GeoAI certificate program at USU. Proven expertise in Remote Sensing, UAS mapping, GIS, Forest Measurements, Machine Learning and Deep Learning. Proficient in R, Python, and image processing tools. A proud dog mom (fish and bunny parent as well) who loves a perspective vision of forests as much as an aerial view.",
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Environment and Society, Utah State University",
+      "position": "Lecturer",
+      "url": "https://qcnr.usu.edu/directory/envs/faculty/chandrasekaran-aishwarya",
+      "startDate": "08/01/2024",
+      "endDate": "",
     }
   ],
   "volunteer": [
