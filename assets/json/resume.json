@@ -46,56 +46,26 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "QCNR Ungergratuate Grant",
+      "date": "2025-02-02",
+      "awarder": "QCNR",
+      "url": "",
+      "summary": "Mentored two undergraduate student to recieve a grant of $3000 for a project titled "Utah ACCESS – Analysis of Cycling Comfort Efficiency and Sustainable Solutions using GIS"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Charles H. Michler Scholarship",
+      "date": "2021-01-01",
+      "awarder": "Department of Forestry and Natural Resources, Purdue University",
+      "url": "",
+      "summary": "Recieved a prestigeous award for my excellence in forest biology research utilizing unmanned aerial systems for inventorying tree plantations efficiently."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Graduate teaching award",
+      "date": "2022-11-02",
+      "awarder": "Center for Instructional Excellence, Purdue University",
+      "url": "",
+      "summary": "Recognized with a teaching excellence award for my efforts towards mentoring and teaching undergraduate students in Remote sensing, GIS and forest measurement."
     },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
     {
